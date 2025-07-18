@@ -32,6 +32,9 @@ External Requirements:
 wget https://github.com/ryanoasis/nerd-fonts/releases/download/v3.1.1/JetBrainsMono.zip
 mkdir -p ~/.local/share/fonts
 unzip JetBrainsMono.zip -d ~/.local/share/fonts
+sudo apt-get install fzf
+sudo apt-get install zoxide
+
 
 sudo apt install exuberant-ctags cscope
 
